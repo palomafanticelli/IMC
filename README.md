@@ -1,5 +1,5 @@
 <h1 align="center"> IMC </h1>
-<p align="justify"> Esse programa calcula o IMC do usuário. </p>
+<p align="center"> Esse programa calcula o IMC do usuário. </p>
 
 ### Funcionalidade
 - Calculo do IMC
